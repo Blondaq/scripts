@@ -1,0 +1,2 @@
+# scripts
+Vanilla DayZ Scripts
